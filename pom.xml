@@ -41,6 +41,7 @@
                         <configuration>
                             <echos>
                                 <echo>HELLO============================================0</echo>
+                                <echo>This message is very early in the build process.</echo>
                             </echos>
                         </configuration>
                     </execution>
