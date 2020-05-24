@@ -23,4 +23,4 @@ jobs:
     - name: Build with Maven
       run: mvn -B validate --file pom.xml
     - name: Test code
-      run: mvn -b test --file pom.xml
+      run: mvn -B test --file pom.xml
