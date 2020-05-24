@@ -1,6 +1,5 @@
 package ru.whoy.hello.entity;
 
-import javafx.util.Builder;
 import org.junit.Test;
 
 
